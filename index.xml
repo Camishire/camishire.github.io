@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://camishire.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:22:06 +0300</lastBuildDate>
-    <atom:link href="https://camishire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2026 13:39:36 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 16 Sep 2026 13:39:36 +0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my about page.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How about this?</title>
-      <link>https://camishire.github.io/posts/second-post/</link>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Wed, 16 Sep 2026 13:22:06 +0300</pubDate>
-      <guid>https://camishire.github.io/posts/second-post/</guid>
+      <guid>http://localhost:1313/posts/second-post/</guid>
       <description>&lt;p&gt;:P&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Loss&#34; loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/8/8b/Minimalist_loss.svg&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;import random
@@ -26,9 +33,9 @@
     </item>
     <item>
       <title>My First Post :D</title>
-      <link>https://camishire.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 16 Sep 2026 12:55:39 +0300</pubDate>
-      <guid>https://camishire.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
